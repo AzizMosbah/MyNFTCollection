@@ -7,4 +7,9 @@ Here is a link to the front-end where you can, connect your wallet and generate 
 Everything is completely free as it is happening on the ETH rinkeby test network :)
 
 
+  1.  Get Metamask & set it on the rinkeby network
+  2.  Ask for ETH on this faucet: https://faucets.chain.link/rinkeby
+  3.  Once your wallet is loaded you can tvveet :D
+
+
 
