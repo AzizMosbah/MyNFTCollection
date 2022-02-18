@@ -1,15 +1,10 @@
-# Basic Sample Hardhat Project
+# I launched a super simple random NFT Generator :)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Check out the Contract's page on OpenSea where you can see the collection as it currently stands: https://testnets.opensea.io/collection/threerandomwords-4fk8jlvvrl
 
-Try running some of the following tasks:
+Here is a link to the front-end where you can, connect your wallet and generate your own. But hurry up, total supply is just 50! https://nft-starter-project-1.azizmosbah.repl.co/
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Everything is completely free as it is happening on the ETH rinkeby test network :)
+
+
+
